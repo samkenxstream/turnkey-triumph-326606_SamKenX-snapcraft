@@ -41,7 +41,7 @@ plaster==1.0
 plaster-pastedeploy==0.7
 pluggy==0.13.1
 progressbar==2.5
-protobuf==3.17.3
+protobuf==3.18.3
 psutil==5.8.0
 ptyprocess==0.7.0
 py==1.10.0
